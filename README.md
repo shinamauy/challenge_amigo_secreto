@@ -22,3 +22,5 @@ Com uma interface simples e intuitiva, você pode adicionar participantes, visua
  **HTML** → Estruturação da página.  
  **CSS** → Estilização e responsividade.  
  **JavaScript** → Lógica do sorteio e interatividade.  
+
+ ## Para acessar o projeto: https://challenge-amigo-secreto-nine-liard.vercel.app/
