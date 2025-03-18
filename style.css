@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #6b3fc9;
+    background-color: #4682b4;
 }
 
 .container {
@@ -22,7 +22,7 @@ input {
 }
 
 button {
-    background-color: #ff6600;
+    background-color: #fde910;
     color: white;
     border: none;
     padding: 10px 15px;
@@ -38,7 +38,7 @@ button:hover {
 
 /* Estilo do novo botão */
 .botao-novo-sorteio {
-    background-color: #008CBA;
+    background-color: #ff0000;
 }
 
 .botao-novo-sorteio:hover {
