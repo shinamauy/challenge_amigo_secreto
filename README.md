@@ -10,10 +10,10 @@ Com uma interface simples e intuitiva, você pode adicionar participantes, visua
 
 ##  Funcionalidades  
 
-✔️ **Adicionar** participantes ao sorteio.  
-✔️ **Remover** participantes da lista.  
-✔️ **Sortear** um amigo secreto de forma totalmente aleatória.  
-✔️ **Reiniciar** o sorteio e limpar a lista de participantes.  
+> **Adicionar** participantes ao sorteio.  
+> **Remover** participantes da lista.  
+> **Sortear** um amigo secreto de forma totalmente aleatória.  
+> **Reiniciar** o sorteio e limpar a lista de participantes.  
 
 ---
 
